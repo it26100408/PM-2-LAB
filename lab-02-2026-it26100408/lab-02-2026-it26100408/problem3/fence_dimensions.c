@@ -6,7 +6,6 @@
               printf("Enter the perimeter of the fence: ");
               scanf("%f", &perimeter);
             
-              //Formula: P = 2(L + 0.75L) -> P = 3.5L
               length = perimeter / 3.5;
               width = 0.75 * length;
             
